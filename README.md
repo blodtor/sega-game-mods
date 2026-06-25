@@ -9,7 +9,7 @@ https://www.romhacking.net/patch/
 https://github.com/Alcaro/Flips/releases
 
 
-# X-MEN 2 CLONE WARS BlodTor MOD 2026 v12.ips
+# X-MEN 2 CLONE WARS BlodTor MOD 2026 v12
 
 Модификация от BlodTor для X-MEN 2 CLONE WARS 
 на основе модификаций от:
@@ -65,7 +65,7 @@ https://github.com/Alcaro/Flips/releases
 
 Модификация от BlodTor для X-MEN 2 CLONE WARS с сохранением в SRAM уровня до которого вы прошли
 
-Список изменений по сравнению с "X-MEN 2 CLONE WARS BlodTor MOD 2026 v12.ips":
+Список изменений по сравнению с "X-MEN 2 CLONE WARS BlodTor MOD 2026 v12":
 
 1) игра сохраняет до какого уровня вы дошли автоматически в SRAM
 что бы это работало на физическом картридже нужна плата с SRAM 
